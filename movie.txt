@@ -1,0 +1,15 @@
+Movie:
+
+
+movie/top_rated:
+
+LIST:
+https://api.themoviedb.org/3/movie/top_rated?api_key=ac3630b1921d2a9b7933bc65c68acc9d&language=en-US&page=1
+
+GET
+
+movie/upcoming:
+
+https://api.themoviedb.org/3/movie/upcoming?api_key=ac3630b1921d2a9b7933bc65c68acc9d&language=en-US&page=1
+
+Get
